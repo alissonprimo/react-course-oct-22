@@ -3,8 +3,6 @@ import reactLogo from "./assets/react.svg";
 import "./App.css";
 
 function App() {
-  const [count, setCount] = useState(0);
-
   return (
     <div className="App bg-red-500 h-screen w-screen flex">
       <div id="left" className="w-[233px] bg-slate-800 px-5 py-3 ">
